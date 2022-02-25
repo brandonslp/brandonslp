@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Node.JS, Java, Neo4j, AWS, Docker, Microservices**
 
-- 📫 How to reach me **yo@brandonslp.dev**
+- 📫 How to reach me **brandonslp.bl@gmail.com**
 
 - ⚡ Fun fact **Love cooking**
 
