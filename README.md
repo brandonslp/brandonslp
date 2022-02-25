@@ -84,6 +84,7 @@ me.sayHi();
 
 ### Databases  
 <div align="center">  
+<img style="margin: 10px" src="https://dist.neo4j.com/wp-content/uploads/20210422140034/Neo4j-logo_color.png" alt="MySQL" height="50" /> 
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />  
 </div>
